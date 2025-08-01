@@ -1,6 +1,6 @@
 cards:
   version: 1.0
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related qa APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
