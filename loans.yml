@@ -1,4 +1,4 @@
-cards:
+loans:
   version: 1.0
   message: "Welcome to EazyBank loans related local APIs "
   contactDetails:
