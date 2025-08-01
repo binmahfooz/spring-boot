@@ -1,6 +1,6 @@
 accounts:
   version: 1.0
-  message: "Welcome to EazyBank accounts related qa APIs "
+  message: "Welcome to EazyBank accounts related qa system APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
