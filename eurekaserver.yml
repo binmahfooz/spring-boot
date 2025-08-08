@@ -5,5 +5,5 @@ eureka:
  client:
   register-with-eureka: false # Prevents the Eureka Server from registering itself as a client
   fetch-registry: false # Prevents the Eureka Server from fetching the registry from other Eureka Servers
-  serviceUrl:
-   defaultZone: "http://eurekaserver:8070/eureka"
+  #serviceUrl:
+   #defaultZone: "http://eurekaserver:8070/eureka"
